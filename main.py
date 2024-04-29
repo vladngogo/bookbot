@@ -30,4 +30,3 @@ def sort_char_nums(chars: dict):
     
 if __name__ == "__main__":
     main()
-    
